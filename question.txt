@@ -1,0 +1,4 @@
+angle_mirror : angle 132 = 320
+circle 
+eqdia_quadrangle  AC = BD 
+free

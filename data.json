@@ -1,0 +1,20 @@
+[
+  {
+    "id": "demo",
+    "image": "img/demo.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Render a clear and concise description of a image about geometric shapes.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "ABC is a triangle with all sides equal. Mirror AC to create D based on the shape of B.The length of BA is 1.00, the length of CB is 1.00 and the length of DA is 1.00."
+      }
+    ],
+    "clause": [
+      "ieq_triangle",
+      "reflect"
+    ]
+  }
+]
